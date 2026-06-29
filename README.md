@@ -1,0 +1,2 @@
+# graphql-game-reviews
+
